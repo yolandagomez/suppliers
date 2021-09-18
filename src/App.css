@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+  color: darkslateblue;
+  filter: invert(24%) sepia(43%) saturate(2668%) hue-rotate(169deg) brightness(92%) contrast(89%);
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #13a1c9;
+  h2 {
+    color: red;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h2j {
+  color: #48a3bd;
+}
