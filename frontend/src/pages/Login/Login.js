@@ -20,7 +20,7 @@ const Login = () => {
         {/* <Form onSubmit={authService.login} onSuccess={handleSuccessfulLogin} /> */}
         <p>Don't have an account yet?
         <strong>
-          <Link to="/register">Create one</Link>
+          <Link to="/Suppliers">Start here</Link>
         </strong>
         </p>
         </>

@@ -1,5 +1,5 @@
 const Supplier = require("../models/Supplier");
-const ErrorResponse = require("../utils/errorResponse");
+// const ErrorResponse = require("../utils/errorResponse");
 
 //@access public
 exports.getAllSuppliers = (req, res, next) => {

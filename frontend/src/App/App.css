@@ -18,9 +18,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #13a1c9;
-  h2 {
-    color: red;
-  }
 }
 
 .App-link {

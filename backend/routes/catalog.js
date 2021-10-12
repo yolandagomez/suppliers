@@ -1,5 +1,5 @@
 const express = require("express");
-const catalogController = require("../../controllers/catalog");
+const catalogController = require("../config/controllers/catalog");
 const router = express.Router();
 
 router.get("/", catalogController.getAllSuppliers);
