@@ -44,8 +44,8 @@ app.use(cors({ origin, credentials: true }));
  */
 
 const catalogRouter = require("./routes/catalog");
-const usersRouter = require("./routes/user");
-const authRouter = require("./routes/auth");
+// const usersRouter = require("./routes/user");
+// const authRouter = require("./routes/auth");
 
 app.use(logger("dev"));
 app.use(express.urlencoded({ extended: true }));
